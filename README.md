@@ -1,16 +1,18 @@
-## Hi there 👋
+## Caleb Kamau Kimani — Tier-1 SOC Analyst (Lab-Ready)
 
-<!--
-**caleb-k-security/caleb-k-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tier-1 SOC Analyst | Blue Team | Wazuh | Sysmon | SOAR (Shuffle) | DFIR Foundations
 
-Here are some ideas to get you started:
+I build hands-on SOC environments to simulate realistic attacks, investigate alerts, and document incidents using industry tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- SIEM monitoring (Wazuh)
+- Alert triage and investigation
+- Log analysis (Windows Security Logs, Sysmon)
+- Threat detection validation
+- Incident documentation and escalation
+- SOAR playbooks and automation (Shuffle)
+
+### Featured Projects
+- **Endpoint Threat Detection Lab (Wazuh)** — `endpoint-threat-detection-wazuh-soc`
+- **Enterprise DFIR Investigation (Wazuh + Forensics)** — `enterprise-dfir-wazuh-forensics`
+- **SOAR Automated Incident Response (Shuffle)** — `soar-automated-incident-response-shuffle`
